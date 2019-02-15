@@ -1,0 +1,38 @@
+{
+  "profile": {
+    "name": "Kevin Stradtman",
+    "title": "Full Stack JavaScript, Python, and C# developer",
+    "image": "/static/img/profile",
+    "bio": [
+      "Born in Cincinnati Ohio and still live here.",
+      "Went through training at Coding Dojo to get my certificate in Python and C#.",
+      "Working towards a JavaScript techdegree to advance my skills.",
+      "Motivated developer, spending all day on my computer is the life to live."
+    ],
+    "skills": [
+      "C#",
+      "ASP.Net",
+      "Entity Framework",
+      "Python",
+      "Django",
+      "Flask",
+      "SQL",
+      "MySql",
+      "Bootstrap",
+      "JavaScript",
+      "jQuery",
+      "Ajax",
+      "HTML",
+      "CSS",
+      "Angular"
+    ],
+    "contact": {
+      "email": "stradtkt22@gmail.com",
+      "phone": "(513) 446-1605",
+      "links": {
+        "github": "https://github.com/stradtkt",
+        "linkedin": "https://www.linkedin.com/in/kevin-stradtman-96b289146/"
+      }
+    }
+  }
+}

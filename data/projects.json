@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "Random Quote Generate",
+      "description": "Cycle through the quotes with a different color appearing every time",
+      "technology": ["JavaScript", "HTML", "CSS"],
+      "link": "",
+      "github": "",
+      "img": ""
+    },
+    {
+      "id": 2,
+      "project_name": "",
+      "description": "",
+      "technology": ["", "", ""],
+      "link": "",
+      "github": "",
+      "img": ""
+    },
+    {
+      "id": 3,
+      "project_name": "",
+      "description": "",
+      "technology": ["", "", ""],
+      "link": "",
+      "github": "",
+      "img": ""
+    },
+    {
+      "id": 4,
+      "project_name": "",
+      "description": "",
+      "technology": ["", "", ""],
+      "link": "",
+      "github": "",
+      "img": ""
+    },
+    {
+      "id": 5,
+      "project_name": "",
+      "description": "",
+      "technology": ["", "", ""],
+      "link": "",
+      "github": "",
+      "img": ""
+    }
+  ]
+}
