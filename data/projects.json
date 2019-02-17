@@ -4,41 +4,46 @@
       "id": 1,
       "project_name": "Random Quote Generate",
       "description": "Cycle through the quotes with a different color appearing every time",
-      "technology": ["JavaScript", "HTML", "CSS"],
-      "github": "https://github.com/stradtkt/Random-Quote",
-      "img": "quote.png"
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://stradtkt.github.io/projects/Random-Quote",
+      "github_link": "https://github.com/stradtkt/Random-Quote",
+      "image_urls": "quote.png"
     },
     {
       "id": 2,
       "project_name": "JavaScript Form Validation",
       "description": "Provide certain validation on a form designed for a full stack conference",
-      "technology": ["JavaScript", "jQuery", "HTML", "CSS"],
-      "github": "https://github.com/stradtkt/JavaScript-Form-Validation",
-      "img": "form.png"
+      "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+      "live_link": "https://stradtkt.github.io/projects/JavaScript-Form-Validation",
+      "github_link": "https://github.com/stradtkt/JavaScript-Form-Validation",
+      "image_urls": "form.png"
     },
     {
       "id": 3,
       "project_name": "Game Show Application",
       "description": "Guess the phrase in the certain amount of lives given.",
-      "technology": ["JavaScript", "OOP", "CSS", "HTML"],
-      "github": "https://github.com/stradtkt/OOP-GameShow",
-      "img": "game.png"
+      "technologies": ["JavaScript", "OOP", "CSS", "HTML"],
+      "live_link": "https://stradtkt.github.io/projects/OOP-GameShow",
+      "github_link": "https://github.com/stradtkt/OOP-GameShow",
+      "image_urls": "game.png"
     },
     {
       "id": 4,
       "project_name": "Tic Tac Toe",
       "description": "Play a friendly game to tic tac toe with a friend",
-      "technology": ["JavaScript","jQuery", "HTML", "CSS"],
-      "github": "https://github.com/stradtkt/treehouse_javascript_project_4--TicTacToe",
-      "img": "tic-tac-toe.png"
+      "technologies": ["JavaScript","jQuery", "HTML", "CSS"],
+      "live_link": "https://stradtkt.github.io/projects/TicTacToe",
+      "github_link": "https://github.com/stradtkt/treehouse_javascript_project_4--TicTacToe",
+      "image_urls": "tic-tac-toe.png"
     },
     {
       "id": 5,
       "project_name": "Search Bar and Pagination",
       "description": "Search bar amd pagination of a list of students",
-      "technology": ["JavaScript", "jQuery", "HTML", "CSS"],
-      "github": "https://github.com/stradtkt/treehouse_javascript_project_2--Pagination-Searchbar",
-      "img": "pagination.png"
+      "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+      "live_link": "https://stradtkt.github.io/projects/Pagination",
+      "github_link": "https://github.com/stradtkt/treehouse_javascript_project_2--Pagination-Searchbar",
+      "image_urls": "pagination.png"
     }
   ]
 }
