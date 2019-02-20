@@ -35,7 +35,14 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button:hover{
-  background-color: #111;
+  background: linear-gradient(120deg, dodgerblue, #777);
+  background: -webkit-linear-gradient(120deg, dodgerblue, #777);
+  background: -moz-linear-gradient(120deg, dodgerblue, #777);
+  background: -o-linear-gradient(120deg, dodgerblue, #777);
+  text-shadow: 2px 2px 3px navy;
+  transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
 }
 
 a{
@@ -45,15 +52,33 @@ a{
 a:hover{
   color: #111;
 }
-
+#my-info {
+  background: linear-gradient(120deg, dodgerblue, #777);
+  background: -webkit-linear-gradient(120deg, dodgerblue, #777);
+  background: -moz-linear-gradient(120deg, dodgerblue, #777);
+  background: -o-linear-gradient(120deg, dodgerblue, #777);
+}
 .image{
   display: inline-block;
   max-width: 100%;
+  width: 33%;
   margin-bottom: 1rem;
-  border: solid 4px #fefefe;
-  border-radius: 0;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  border: none;
   line-height: 0;
+}
+.text-light {
+  color: white !important;
+}
+.cell.auto a:hover {
+  color: white;
+  text-shadow: 2px 2px 3px navy;
+  transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+}
+.cell .thumbnail {
+  border: none;
+  box-shadow: none;
 }
 
 .portfolio-me{
@@ -114,6 +139,7 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    padding: 0 40px;
   }
 
   .portfolio-index a{

@@ -13,7 +13,8 @@ block content
         if profile.bio
           .portfolio-bio
             each personal_bio in profile.bio
-              p= personal_bio
+              ul
+                li= personal_bio
 
       .cell.portfolio-meta.small-6.medium-2.large-3
         if profile.skills
