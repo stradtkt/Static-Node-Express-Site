@@ -3,7 +3,7 @@
     {
       "id": 1,
       "project_name": "Random Quote Generate",
-      "description": "Cycle through the quotes with a different color appearing every time",
+      "description": "Cycle through the quotes with a different color appearing every time.  The quotes are mostly from Winston Churchill.  Vanilla JavaScript getting the app done with minor styling.",
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://stradtkt.github.io/projects/Random-Quote",
       "github_link": "https://github.com/stradtkt/Random-Quote",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "project_name": "JavaScript Form Validation",
-      "description": "Provide certain validation on a form designed for a full stack conference",
+      "description": "Provide certain validation on a form designed for a full stack conference.  The validations use JavaScript and jQuery to get the job done.",
       "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
       "live_link": "https://stradtkt.github.io/projects/JavaScript-Form-Validation",
       "github_link": "https://github.com/stradtkt/JavaScript-Form-Validation",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "project_name": "Game Show Application",
-      "description": "Guess the phrase in the certain amount of lives given.",
+      "description": "Guess the phrase in the certain amount of lives given.  This game show uses OOP JavaScript to get the job done.",
       "technologies": ["JavaScript", "OOP", "CSS", "HTML"],
       "live_link": "https://stradtkt.github.io/projects/OOP-GameShow",
       "github_link": "https://github.com/stradtkt/OOP-GameShow",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "project_name": "Tic Tac Toe",
-      "description": "Play a friendly game to tic tac toe with a friend",
+      "description": "Play a friendly game to tic tac toe with a friend.  This TicTacToe game uses JavaScript and jQuery to get the job done.",
       "technologies": ["JavaScript","jQuery", "HTML", "CSS"],
       "live_link": "https://stradtkt.github.io/projects/TicTacToe",
       "github_link": "https://github.com/stradtkt/treehouse_javascript_project_4--TicTacToe",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "project_name": "Search Bar and Pagination",
-      "description": "Search bar amd pagination of a list of students",
+      "description": "Search bar amd pagination of a list of students.  This pagination project uses JavaScript and jQuery to get the job done.",
       "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
       "live_link": "https://stradtkt.github.io/projects/Pagination",
       "github_link": "https://github.com/stradtkt/treehouse_javascript_project_2--Pagination-Searchbar",
